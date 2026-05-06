@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+faiss-cpu
+numpy
+tqdm
+anthropic
+gradio
+scikit-learn
