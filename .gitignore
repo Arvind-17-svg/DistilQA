@@ -1,1 +1,2 @@
 *.pyc
+saved/model/trained_embedder.pt
